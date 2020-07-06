@@ -7,9 +7,9 @@
 На тестирование затрачено: <10 мин>
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/BethPech/KeyValidator/issues/1#issue-651146552
-* https://github.com/BethPech/KeyValidator/issues/3#issue-651147684
-* https://github.com/BethPech/KeyValidator/issues/2#issue-651147220
+* https://github.com/BethPech/KeyValidator/issues/4#issue-651249521
+* https://github.com/BethPech/KeyValidator/issues/5#issue-651251100
+* https://github.com/BethPech/KeyValidator/issues/6#issue-651252662
 
 ## Описание процесса тестирования
 
@@ -40,5 +40,5 @@
 
 Тестирование производилось в следующем окружении:
 * Windows 7 Корпоративная, 64-разрядная ОС
-* Java 11.0.7.10
+* Java 11.0.7
 
